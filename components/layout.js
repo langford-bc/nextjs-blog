@@ -40,7 +40,7 @@ export default function Layout({ children, home }) {
           </>
         ) : (
           <>
-            <Link href="/" className={utilStyles.borderCircle}>
+            <Link href="/">
               <Image
                 priority
                 src="/images/nextblog-new.jpeg"
