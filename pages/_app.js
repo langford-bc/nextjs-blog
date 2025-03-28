@@ -1,4 +1,4 @@
-import '../styles/globals.css'; // Corrected import path
+import '../styles/global.css'; // Correct path
 import { Analytics } from '@vercel/analytics/react';
 
 export default function App({ Component, pageProps }) {
